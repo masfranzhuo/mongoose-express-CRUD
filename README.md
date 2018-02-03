@@ -1,4 +1,4 @@
-# mongoose-express-CRUD
+# Node.js mongoose express CRUD
 Node.js CRUD application based on the MongoDB database design and Express.js framework
 
 This Node.js CRUD code use 
